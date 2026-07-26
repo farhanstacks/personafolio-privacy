@@ -14,10 +14,8 @@ By creating an account or using PersonaFolio, you agree to this Privacy Policy. 
 - **Android package:** `com.personafolio`  
 - **Developer / contact for privacy requests:**  
   - Open an issue: [github.com/mbfarhanm1998/PersonaFolio/issues](https://github.com/farhanstacks/PersonaFolio/issues)  
-  - Email: **[mb.farhan.m.1.9.9.8@gmail.com]**  
-
-Please replace the email above with your real support address before publishing store listings.
-
+  - Email: **[mb.farhan.m.1.9.9.8@gmail.com]**
+  
 ---
 
 ## 2. Information we collect
