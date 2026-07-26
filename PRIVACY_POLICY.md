@@ -202,8 +202,8 @@ We may update this Privacy Policy from time to time. When we do, we will revise 
 
 If you have questions about this Privacy Policy or your personal data:
 
-- GitHub Issues: [https://github.com/mbfarhanm1998/PersonaFolio/issues](https://github.com/mbfarhanm1998/PersonaFolio/issues)  
-- Email: **[REPLACE_WITH_YOUR_EMAIL]**  
+- GitHub Issues: [https://github.com/mbfarhanm1998/PersonaFolio/issues](https://github.com/farhanstacks/PersonaFolio/issues)  
+- Email: **[mb.farhan.m.1.9.9.8@gmail.com]**  
 
 ---
 
