@@ -13,9 +13,9 @@ By creating an account or using PersonaFolio, you agree to this Privacy Policy. 
 - **App name:** PersonaFolio  
 - **Android package:** `com.personafolio`  
 - **Developer / contact for privacy requests:**  
-  - Open an issue: [github.com/mbfarhanm1998/PersonaFolio/issues](https://github.com/farhanstacks/PersonaFolio/issues)  
-  - Email: **[mb.farhan.m.1.9.9.8@gmail.com]**
-  
+  - Open an issue: [github.com/farhanstacks/PersonaFolio/issues](https://github.com/farhanstacks/PersonaFolio/issues)  
+  - Email: **mb.farhan.m.1.9.9.8@gmail.com**  
+
 ---
 
 ## 2. Information we collect
@@ -200,8 +200,8 @@ We may update this Privacy Policy from time to time. When we do, we will revise 
 
 If you have questions about this Privacy Policy or your personal data:
 
-- GitHub Issues: [https://github.com/mbfarhanm1998/PersonaFolio/issues](https://github.com/farhanstacks/PersonaFolio/issues)  
-- Email: **[mb.farhan.m.1.9.9.8@gmail.com]**  
+- GitHub Issues: [https://github.com/farhanstacks/PersonaFolio/issues](https://github.com/farhanstacks/PersonaFolio/issues)  
+- Email: **mb.farhan.m.1.9.9.8@gmail.com**  
 
 ---
 
